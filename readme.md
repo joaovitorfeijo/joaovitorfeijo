@@ -1,4 +1,4 @@
-# 👽 Coé, dá uma olhada aí!
+# 👽 Olá, dá uma olhada aí!
 
 
 <div align="center">
