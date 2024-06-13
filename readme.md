@@ -1,4 +1,4 @@
-# 👽 Olá, dá uma olhada aí!
+# Olá, esse é meu github!
 
 
 <div align="center">
@@ -10,10 +10,7 @@
    ##
   
 <div>
-  <a href="https://www.instagram.com/joaovitorffeijo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://t.me/joaovitorffeijo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovitorffeijo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/joaovitorffeijo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/joaovitorffeijo/joaovitorffeijo/blob/output/github-contribution-grid-snake.svg)
 </div>  
